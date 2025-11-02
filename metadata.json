@@ -1,0 +1,5 @@
+{
+  "name": "Math Problem Generator",
+  "description": "An application that generates mathematical problems on various topics using the Gemini API and renders them beautifully with KaTeX.",
+  "requestFramePermissions": []
+}
